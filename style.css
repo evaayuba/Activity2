@@ -1,0 +1,12 @@
+body {
+    display: block;
+}
+img {
+    height: 30%;
+    width: 10%;
+    float: right;
+}
+div{
+   display: inline;
+}
+
